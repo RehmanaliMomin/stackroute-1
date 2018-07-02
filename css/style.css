@@ -1,0 +1,33 @@
+a {
+color: chocolate;
+text-decoration: none;
+}
+
+.beeju{
+    font-size: 55px;
+}
+
+h1{
+    color: darkolivegreen;
+    text-decoration: black;
+    font-family: sans-serif;
+}
+
+.pehlu{
+    font-size: 29px;
+    text-shadow: 10px;
+    text-orientation: sideways-right;
+}
+
+img{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+div{
+    width: 500px;
+    background: blue;
+    margin: auto;
+    text-align: center;
+}
